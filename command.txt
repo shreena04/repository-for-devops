@@ -1,0 +1,19 @@
+git status
+   15  vi first.txt
+   16  git status
+   17  ls
+   18  git add -m "first.txt"
+   19  git add -m "first
+   20  git add -m "first"
+   21  ls
+   22  git status
+   23  git add first.txt 
+   24  ls
+   25  git status
+   26  git commit -m "first.txt" 
+   27  git status
+   28  rm first.txt 
+   29  git status
+   30  git restore first.txt
+   31  git status
+   32  history
