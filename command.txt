@@ -16,4 +16,5 @@ git status
    29  git status
    30  git restore first.txt
    31  git status
-   32  history
+   32  histor
+few changes y
